@@ -1,0 +1,20 @@
+# Datasets
+EuroSAT/
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# Checkpoints
+checkpoint_epoch_*.pth
+last_checkpoint.pth
+finetune_model.pth
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
