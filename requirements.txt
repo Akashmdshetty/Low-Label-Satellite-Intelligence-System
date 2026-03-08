@@ -1,6 +1,6 @@
-torch
-torchvision
-numpy
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.23.0
 pyyaml
 tensorboard
 scikit-learn
@@ -9,6 +9,7 @@ tqdm
 wandb
 pandas
 scipy
-streamlit
+streamlit>=1.25.0
 plotly
 seaborn
+Pillow

@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+primaryColor="#00e5cc"
+
+[server]
+headless = true
+address = "0.0.0.0"
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
